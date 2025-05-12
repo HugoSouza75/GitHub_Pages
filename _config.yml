@@ -2,6 +2,6 @@ Title: HugoSouza75
 logo: 
 Description: Estudante de Ciência Da Computação
 #show_downloads: true
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme
